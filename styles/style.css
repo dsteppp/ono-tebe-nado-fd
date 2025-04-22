@@ -39,7 +39,6 @@
 
 .header__logo {
   display: relative;
-  display: block;
   grid-column: 2;
   width: 140px;
 }
