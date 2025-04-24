@@ -3,7 +3,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 92px 50px 93px;
+  padding: 92px 50px 92px;
 }
 
 .header__menu {
@@ -114,7 +114,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 103px 0 50px;
+  padding: 102px 0 49px;
   color: #fff;
   font-size: 22px;
   line-height: 1.27;
@@ -123,13 +123,14 @@
 
 .cover__description-text {
   z-index: 1;
+  margin: 4px 0 0;
   word-spacing: 19px;
 }
 
 .bet-button {
   z-index: 1;
   border: 1px solid currentColor;
-  padding: 12px 32px 11px 31px;
+  padding: 13px 32px 11px 31px;
   color: #fff;
   font-weight: 500;
   font-size: 22px;
@@ -140,7 +141,7 @@
 
 .lots {
   display: block;
-  padding: 179px 24px 120px;
+  padding: 180px 24px 120px;
 }
 
 .section-title {
